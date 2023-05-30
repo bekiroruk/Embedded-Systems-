@@ -1,7 +1,7 @@
 # Embedded-Systems-
 
 
-Gömülü Sistemler Ödevleri
+GÖMÜLÜ SİSTEMLER PROJE ÖDEVİ - LCD Ekran Oyun
 
 
 
